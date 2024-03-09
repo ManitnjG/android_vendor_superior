@@ -56,7 +56,7 @@ cc_library_headers {
 }
 
 cc_library_headers {
-    name: "qti_kernel_headers",
+    name: "qti_kernel_header",
     defaults: ["generated_kernel_header_defaults"],
 }
 
